@@ -1,0 +1,11 @@
+E:\C#\UTS_PBO_02\bin\Debug\netcoreapp2.1\UTS_PBO_02.deps.json
+E:\C#\UTS_PBO_02\bin\Debug\netcoreapp2.1\UTS_PBO_02.runtimeconfig.json
+E:\C#\UTS_PBO_02\bin\Debug\netcoreapp2.1\UTS_PBO_02.runtimeconfig.dev.json
+E:\C#\UTS_PBO_02\bin\Debug\netcoreapp2.1\UTS_PBO_02.dll
+E:\C#\UTS_PBO_02\bin\Debug\netcoreapp2.1\UTS_PBO_02.pdb
+E:\C#\UTS_PBO_02\obj\Debug\netcoreapp2.1\UTS_PBO_02.csprojAssemblyReference.cache
+E:\C#\UTS_PBO_02\obj\Debug\netcoreapp2.1\UTS_PBO_02.csproj.CoreCompileInputs.cache
+E:\C#\UTS_PBO_02\obj\Debug\netcoreapp2.1\UTS_PBO_02.AssemblyInfoInputs.cache
+E:\C#\UTS_PBO_02\obj\Debug\netcoreapp2.1\UTS_PBO_02.AssemblyInfo.cs
+E:\C#\UTS_PBO_02\obj\Debug\netcoreapp2.1\UTS_PBO_02.dll
+E:\C#\UTS_PBO_02\obj\Debug\netcoreapp2.1\UTS_PBO_02.pdb
